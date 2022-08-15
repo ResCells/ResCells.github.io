@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rescells.github.io</id>
+    <title>ResCells&apos; blog</title>
+    <updated>2022-08-15T14:38:19.332Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rescells.github.io"/>
+    <link rel="self" href="https://rescells.github.io/atom.xml"/>
+    <subtitle>逮虾户~</subtitle>
+    <logo>https://rescells.github.io/images/avatar.png</logo>
+    <icon>https://rescells.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, ResCells&apos; blog</rights>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到我的博客awa]]></title>
+        <id>https://rescells.github.io/post/huan-ying-lai-dao-wo-de-bo-ke-awa/</id>
+        <link href="https://rescells.github.io/post/huan-ying-lai-dao-wo-de-bo-ke-awa/">
+        </link>
+        <updated>2022-08-15T14:12:28.000Z</updated>
+        <content type="html"><![CDATA[<p>虽然目前这里啥也没有QAQ，毕竟这里是新创建的博客嘛awa。<br>
+这里附上我的CSDN主页：<a herf="https://blog.csdn.net/ResCells">https://blog.csdn.net/ResCells</a><br>
+很快我就会发布自己的第一篇文章啦嘿嘿</p>
+]]></content>
+    </entry>
+</feed>
